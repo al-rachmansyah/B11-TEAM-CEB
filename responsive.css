@@ -150,6 +150,7 @@
 
   .news-layout img {
     width: 50%;
+    margin-bottom:10px;
   }
 
   .news-layout a {
@@ -157,8 +158,8 @@
   }
   
   .news-baru {
-    display: inline-block;
-    width: 50%;
+    display: block;
+    width: 90px;
     white-space: nowrap;
     overflow: hidden !important;
     text-overflow: ellipsis;
