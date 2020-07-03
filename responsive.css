@@ -155,6 +155,14 @@
   .news-layout a {
     float: left;
   }
+  
+  .news-baru {
+    display: inline-block;
+    width: 50%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+  }
 
   .layout-left {
   	width: 100%;
